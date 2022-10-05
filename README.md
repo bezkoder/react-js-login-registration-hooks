@@ -1,7 +1,27 @@
 ## React Login and Registration example with JWT and HttpOnly cookie
 
+Build React JWT Authentication and Authorization example using React Hooks, React Router, Axios and Bootstrap (without Redux):
+- JWT Authentication Flow for User Signup & User Login
+- Project Structure for React Authentication (without Redux) with React Router & Axios
+- Creating React Components with Form Validation using Formik and Yup
+- React Pages for accessing protected Resources (Authorization)
+- Dynamic Navigation Bar in React App
+
 For more detail, please visit:
-> [React Login and Registration example with JWT and HttpOnly cookie](https://bezkoder.com/react-login-example-jwt-hooks/)
+> [React Login and Registration example with JWT](https://bezkoder.com/react-login-example-jwt-hooks/)
+
+> [React + Redux: Login and Registration example with JWT](https://www.bezkoder.com/redux-toolkit-auth/)
+
+Working with back-end servers:
+> [Spring Boot + H2](https://www.bezkoder.com/spring-boot-security-jwt/)
+
+> [Spring Boot + MySQL/PostgreSQL](https://www.bezkoder.com/spring-boot-login-example-mysql/)
+
+> [Spring Boot + MongoDB](https://www.bezkoder.com/spring-boot-mongodb-login-example/)
+
+> [Node Express + MySQL/PostgreSQL](https://www.bezkoder.com/node-js-express-login-example/)
+
+> [Node Express + MongoDB](https://www.bezkoder.com/node-js-express-login-mongodb/)
 
 Fullstack (JWT Authentication & Authorization example):
 > [React + Spring Boot](https://bezkoder.com/spring-boot-react-jwt-auth/)
